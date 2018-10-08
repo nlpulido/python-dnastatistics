@@ -1,0 +1,49 @@
+Name: Neil Pulido
+CS 110
+Project 1 
+
+For each problem that requires a written answer, write (or copy-and-paste)
+your answers in this file.  When you are done, you should have replaced all
+the ellipses (the three dots) with your answers.
+
+At the end, you will turn in this file along with your modified
+dna_analysis.py program.
+
+Part 1a:
+
+(No answers in this file.)
+
+Part 1b:
+
+GC-content: 0.4302926296296296
+
+Part 1c:
+
+GC-content: 0.4302926296296296
+AT-content: 0.2844969259259259
+
+Part 2a:
+
+Number of 'A' Nucleotides:  7701287
+Number of 'T' Nucleotides:  7661547
+Number of 'C' Nucleotides:  5879128
+Number of 'G' Nucleotides:  5738773
+
+
+Part 2b:
+
+File: test-high-gc-1.fastq
+Sum of A,T,C, and G Count:  39840
+Total Count:  80000
+Length of the seq variable:  40000
+
+All three metrics are different.
+
+Part 2c:
+
+AT/GC Ratio:  1.3223416174746196
+
+Part 2d:
+
+The organism is considered 'moderate GC content.’
+
